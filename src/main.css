@@ -1,0 +1,13 @@
+.header {
+  background-color: grey;
+}
+
+.movie-list {
+  border: 5px solid grey ;
+
+}
+
+.movie-list-entry {
+  border: 2px solid black
+
+}
